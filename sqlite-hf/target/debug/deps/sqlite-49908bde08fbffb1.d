@@ -1,0 +1,12 @@
+/workspaces/ci-with-rust/sqlite-hf/target/debug/deps/sqlite-49908bde08fbffb1.rmeta: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/error.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/value.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/connection.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/cursor.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/statement.rs
+
+/workspaces/ci-with-rust/sqlite-hf/target/debug/deps/libsqlite-49908bde08fbffb1.rlib: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/error.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/value.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/connection.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/cursor.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/statement.rs
+
+/workspaces/ci-with-rust/sqlite-hf/target/debug/deps/sqlite-49908bde08fbffb1.d: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/error.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/value.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/connection.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/cursor.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/statement.rs
+
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/lib.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/error.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/value.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/connection.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/cursor.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlite-0.31.1/src/statement.rs:
