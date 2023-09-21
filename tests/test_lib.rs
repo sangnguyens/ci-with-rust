@@ -1,8 +1,8 @@
 /*write test function for src/libs.rs */
 use trust::add;
-use trust::divide;
-use trust::multiply;
 use trust::sub;
+use trust::multiply;
+use trust::divide;
 
 #[test]
 fn test_add() {
